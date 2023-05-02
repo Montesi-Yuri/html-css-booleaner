@@ -22,7 +22,7 @@
     font-weight: bolder;
 
 }
-/* End of header backgorund and logo */
+/* End of header background and logo */
 
 
 /* Main title */
@@ -33,5 +33,17 @@
 
 .date{
     font-size: 12px;
+}
 
+.highlight{
+    background-color: yellow;
+}
+
+.list1{
+    padding-left: 12px;
+}
+
+.thead1{
+    width: 1000px;
+    background-color: #4EA0FF;
 }
