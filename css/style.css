@@ -35,14 +35,17 @@
     font-size: 12px;
 }
 
+/* Text n1 highlight */
 .highlight{
     background-color: yellow;
 }
 
+/* Unordered list padding */
 .list1{
     padding-left: 12px;
 }
 
+/* Table */
 .thead1{
     width: 1000px;
     text-align: left;
@@ -52,4 +55,36 @@
 
 .tbody1{
     background-color: #B1E5F2;
+}
+
+table>td{
+    font-weight: 900;
+}
+
+/* Footer images */
+.footer-img1{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+}
+
+.footer-img2{
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+}
+
+/* Footer text */
+.footer-span{
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    padding-left: 15px;
+}
+
+#footer-title{
+    color: #777777;
+    font-weight: 900;
 }
