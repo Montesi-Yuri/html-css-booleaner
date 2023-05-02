@@ -2,6 +2,7 @@
     box-sizing: border-box;
 }
 
+/* Header background and logo */
 .header-logo{
     background-image: url(../img/pattern.png);
     background-color: #4EA0FF;
@@ -14,4 +15,23 @@
     width: 300px;
     height: auto;
     padding-top: 50px;
+}
+
+.the-booleaner{
+    color: #A0D9F3;
+    font-weight: bolder;
+
+}
+/* End of header backgorund and logo */
+
+
+/* Main title */
+.main-title{
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+.date{
+    font-size: 12px;
+
 }
