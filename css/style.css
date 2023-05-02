@@ -45,5 +45,11 @@
 
 .thead1{
     width: 1000px;
+    text-align: left;
     background-color: #4EA0FF;
+    color: white;
+}
+
+.tbody1{
+    background-color: #B1E5F2;
 }
